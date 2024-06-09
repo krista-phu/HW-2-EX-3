@@ -1,5 +1,5 @@
 # SQL+Python Docker Environment
-**Description**: Dockerfiles and docker compose for SQL and Python environment for STAT 315/ECEN360 and STAT 624
+**Description**: Dockerfiles and docker compose for SQL and Python environment for STAT 315/CSCE 305/ECEN 360
 
 ## Quick start guide
 1. Download zipped folder containing all files in this repository.
